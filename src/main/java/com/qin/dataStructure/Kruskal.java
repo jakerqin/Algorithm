@@ -12,7 +12,7 @@ import java.util.Scanner;
  * 4>.每次向MST中添加边肯定添加最小权的边，唯一条件便是不构成环
  * 5>.上述不构成环是利用等价类<并查集>实现的
  * 6>.并查集实现：树！每个顶点两个域：parent域&root域!find-union!重量规则！</pre>
- * @author King
+ * @author qinlianji
  *
  */
 public class Kruskal {

@@ -9,7 +9,6 @@ import java.util.Random;
  *  例如：从小到大排序
  *      把第一个数作为基准数，
  *      从右边向左开始找小于基准数的位置
- *
  */
 public class QuickSort {
 
