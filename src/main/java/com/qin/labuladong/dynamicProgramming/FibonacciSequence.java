@@ -1,4 +1,4 @@
-package com.qin.labuladong;
+package com.qin.labuladong.dynamicProgramming;
 
 import java.util.ArrayList;
 import java.util.List;
